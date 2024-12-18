@@ -1,0 +1,116 @@
+{
+  "financial": {
+    "mortgage": [
+      {
+        "id": "pm001",
+        "name": "Silicon Valley Premium Mortgage",
+        "rank": 5,
+        "vipStatus": true,
+        "address": "2310 El Camino Real",
+        "city": "Santa Clara",
+        "zipcode": "95050",
+        "phone": "(408) 555-0123",
+        "hours": "Mon-Fri: 9AM-6PM",
+        "summary": "Luxury home financing solutions with competitive rates",
+        "image": "https://images.unsplash.com/photo-1560520653-9e0e4c89eb11?auto=format&fit=crop&q=80&w=1000",
+        "logo": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?auto=format&fit=crop&q=80&w=200"
+      },
+      {
+        "id": "pm002",
+        "name": "Cupertino Financial Group",
+        "rank": 4,
+        "vipStatus": true,
+        "address": "19000 Stevens Creek Blvd",
+        "city": "Cupertino",
+        "zipcode": "95014",
+        "phone": "(408) 555-0124",
+        "hours": "Mon-Fri: 8:30AM-5:30PM",
+        "summary": "Specialized in jumbo loans and luxury properties",
+        "image": "https://images.unsplash.com/photo-1556742393-d75f468bfcb0?auto=format&fit=crop&q=80&w=1000",
+        "logo": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?auto=format&fit=crop&q=80&w=200"
+      }
+    ],
+    "banking": [
+      {
+        "id": "eb001",
+        "name": "Los Gatos Private Banking",
+        "rank": 5,
+        "vipStatus": true,
+        "address": "50 University Ave",
+        "city": "Los Gatos",
+        "zipcode": "95030",
+        "phone": "(408) 555-0125",
+        "hours": "Mon-Fri: 9AM-5PM",
+        "summary": "Exclusive private banking services for high-net-worth individuals",
+        "image": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?auto=format&fit=crop&q=80&w=1000",
+        "logo": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?auto=format&fit=crop&q=80&w=200"
+      }
+    ],
+    "title": [
+      {
+        "id": "tc001",
+        "name": "Palo Alto Title Services",
+        "rank": 4,
+        "vipStatus": true,
+        "address": "525 University Ave",
+        "city": "Palo Alto",
+        "zipcode": "94301",
+        "phone": "(650) 555-0126",
+        "hours": "Mon-Fri: 8AM-6PM",
+        "summary": "Professional title and closing services",
+        "image": "https://images.unsplash.com/photo-1542744094-24638eff58bb?auto=format&fit=crop&q=80&w=1000",
+        "logo": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?auto=format&fit=crop&q=80&w=200"
+      }
+    ],
+    "escrow": [
+      {
+        "id": "es001",
+        "name": "Mountain View Escrow",
+        "rank": 5,
+        "vipStatus": true,
+        "address": "800 California St",
+        "city": "Mountain View",
+        "zipcode": "94041",
+        "phone": "(650) 555-0127",
+        "hours": "Mon-Fri: 9AM-5PM",
+        "summary": "Trusted escrow and transaction management services",
+        "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&q=80&w=1000",
+        "logo": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?auto=format&fit=crop&q=80&w=200"
+      }
+    ]
+  },
+  "services": {
+    "moving": [
+      {
+        "id": "lm001",
+        "name": "Saratoga Luxury Movers",
+        "rank": 5,
+        "vipStatus": true,
+        "address": "14777 Big Basin Way",
+        "city": "Saratoga",
+        "zipcode": "95070",
+        "phone": "(408) 555-0128",
+        "hours": "Mon-Sat: 7AM-7PM",
+        "summary": "White glove moving services for luxury homes",
+        "image": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&q=80&w=1000",
+        "logo": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?auto=format&fit=crop&q=80&w=200"
+      }
+    ],
+    "design": [
+      {
+        "id": "id001",
+        "name": "Los Altos Interior Design",
+        "rank": 5,
+        "vipStatus": true,
+        "address": "366 Main St",
+        "city": "Los Altos",
+        "zipcode": "94022",
+        "phone": "(650) 555-0129",
+        "hours": "Mon-Fri: 10AM-6PM",
+        "summary": "Premium interior design services for luxury homes",
+        "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&q=80&w=1000",
+        "logo": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?auto=format&fit=crop&q=80&w=200"
+      }
+    ]
+  }
+}
